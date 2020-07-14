@@ -33,7 +33,6 @@ apt update ; apt install git python python2 -y ; git clone https://github.com/ht
 
 <br>
 <p align="center">
-<img width="53%" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/pakcrk.png"/>
 <img src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/pakcrk2.png"/>
 </p>
 
