@@ -8,9 +8,9 @@
 </p>
 <p align="center">
 <a href="https://github.com/htr-tech/followers"><img title="Followers" src="https://img.shields.io/github/followers/htr-tech?color=blue&style=flat-square"></a>
-<a href="https://github.com/htr-tech/zphisher/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/htr-tech/pakcrack?color=red&style=flat-square"></a>
-<a href="https://github.com/htr-tech/zphisher/network/members"><img title="Forks" src="https://img.shields.io/github/forks/htr-tech/pakcrack?color=red&style=flat-square"></a>
-<a href="https://github.com/htr-tech/zphisher/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/htr-tech/pakcrack?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/htr-tech/pakcrack/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/htr-tech/pakcrack?color=red&style=flat-square"></a>
+<a href="https://github.com/htr-tech/pakcrack/network/members"><img title="Forks" src="https://img.shields.io/github/forks/htr-tech/pakcrack?color=red&style=flat-square"></a>
+<a href="https://github.com/htr-tech/pakcrack/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/htr-tech/pakcrack?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## Installation :
@@ -44,7 +44,6 @@ apt update ; apt install git python python2 -y ; git clone https://github.com/ht
 #### [+] Easy for Beginners !
 
 ## Thanks :
-#### > Binyamin Binni (https://github.com/binyamin-binni)
 #### > Tariz Shahid (https://github.com/tarizshahid)
 
 ## Find Me on :
