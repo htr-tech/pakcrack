@@ -29,6 +29,7 @@
 apt update ; apt install git python python2 -y ; git clone https://github.com/htr-tech/pakcrack.git ; cd pakcrack ; python2 crack.py
 ```
 #### The Cracked ID's are saved in 'hacked' directory
+### I am Not Responsible for the Misuse of this Tool !!
 
 <br>
 <p align="center">
