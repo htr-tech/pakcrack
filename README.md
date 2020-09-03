@@ -2,7 +2,7 @@
 <a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Pak Crack" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/banner/pakcrak.png"></a>
+<a href="#"><img title="Pak Crack" src=".__src__/pakcrak.png"></a>
 <p align="center">
 <a href="https://github.com/htr-tech"><img title="Author" src="https://img.shields.io/badge/Author-htr--tech-red.svg?style=for-the-badge&logo=github"></a>
 </p>
@@ -22,7 +22,8 @@
 
 #### > Run : `python2 crack.py`
 
-#### USERNAME & PASSWORD : [Send Message Here](https://fb.com/tahmid.rayat.official)
+#### USERNAME : `cra3k`
+#### PASSWORD : `htrtech`
 
 ## Single Command :
 ```
@@ -30,12 +31,12 @@ apt update ; apt install git python python2 -y ; git clone https://github.com/ht
 ```
 #### The Cracked ID's are saved in 'hacked' directory
 ### I am Not Responsible for the Misuse of this Tool !!
-
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/pakcrk2.png"/>
+<img src=".__src__/pakcrk1.png"/>
 </p>
 
+### << I AM NOT RESPONSIBLE FOR MISUSE >>
 ### <<< If you copy , Then Give me The Credits >>>
 
 ## Features :
@@ -44,9 +45,9 @@ apt update ; apt install git python python2 -y ; git clone https://github.com/ht
 #### [+] All Pakistani Operators are Available !
 #### [+] Easy for Beginners !
 
-
 ## Find Me on :
 [![Github](https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github)](https://github.com/htr-tech)
+[![Gitlab](https://img.shields.io/badge/Gitlab-HTR--TECH-green?style=for-the-badge&logo=gitlab)](https://gitlab.com/htr-tech)
 [![Instagram](https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/tahmid.rayat)
+[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/tahmid.rayat.official)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/tahmid.rayat.official)
-
